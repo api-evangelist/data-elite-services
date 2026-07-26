@@ -1,7 +1,26 @@
 aid: data-elite-services
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/data-elite-services.png
 name: Data Elite Services
-description: Data Elite Services is a company surfaced as a portfolio company of a16z and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Data Elite Services, Inc. was a San Francisco company associated with Data Elite, a venture
+  lab and early-stage accelerator for big-data startups and data scientists founded in 2013 at 135 Main
+  Street, San Francisco, California. The entity was registered in California on 2013-08-27 as a foreign
+  stock corporation and its filing status is recorded as forfeited by the Franchise Tax Board, indicating
+  the business is no longer active. Enrichment probes in July 2026 found no live company website, no
+  developer portal, no documentation, and no API surface of any kind. The dataelite.com domain resolves
+  but redirects to a GoDaddy for-sale parking lander rather than a company site, and no other candidate
+  domain resolved. This record is retained as an inactive historical entry in the API Evangelist network
+  with no API artifacts to enrich; it should not be treated as an active API provider.
 url: https://raw.githubusercontent.com/api-evangelist/data-elite-services/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +28,31 @@ x-backed-by:
 - a16z
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: inactive
+x-status-evidence:
+- California registration 2013-08-27, filing status forfeited (FTB)
+- 'https://dataelite.com/ probe 2026-07-20: 307 redirect to forsale.godaddy.com parking lander'
+- 'dataelite.io, dataelite.net, dataeliteservices.com: no DNS resolution'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Accelerator
+- Venture Lab
+- Big Data
+- Data Science
+- San Francisco
+- Inactive
 apis: []
+common: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
