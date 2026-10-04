@@ -39,7 +39,7 @@ x-backed-by:
 - a16z
 x-tier: stub
 x-tier-reason: portfolio-lead
-x-status: inactive
+x-status: defunct
 x-status-evidence:
 - California registration 2013-08-27, filing status forfeited (FTB)
 - 'https://dataelite.com/ probe 2026-07-20: 307 redirect to forsale.godaddy.com parking lander'
@@ -55,6 +55,7 @@ tags:
 - Data Science
 - San Francisco
 - Inactive
+- Defunct
 apis: []
 common: []
 maintainers:
