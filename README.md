@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Data Elite Services is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: a16z
+Data Elite Services, Inc. was a San Francisco company associated with Data Elite, a venture lab and early-stage accelerator for big-data startups and data scientists founded in 2013 at 135 Main Street, San Francisco, California. The entity was registered in California on 2013-08-27 as a foreign stock corporation and its filing status is recorded as forfeited by the Franchise Tax Board, indicating the business is no longer active. Enrichment probes in July 2026 found no live company website, no developer portal, no documentation, and no API surface of any kind. The dataelite.com domain resolves but redirects to a GoDaddy for-sale parking lander rather than a company site, and no other candidate domain resolved. This record is retained as an inactive historical entry in the API Evangelist network with no API artifacts to enrich; it should not be treated as an active API provider.
+
+**Areas:** Company · Accelerator · Venture Lab · Big Data · Data Science · San Francisco · Inactive · Defunct
+
+## Data Elite Services on APIs.io (historical record)
+
+Everything profiled for Data Elite Services is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/data-elite-services/](https://apis.io/providers/data-elite-services/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Data Elite Services: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/data-elite-services/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
